@@ -6,7 +6,8 @@ A website with four different pages for the Indie Film Collective.
 Home
 Film Screenings
 Workshops
-Collaborations## Published Website
-Website URL:
+Collaborations
+## Published Website
+Website URL: https://oolajid1.github.io/5-Build/
 ## AI Use Statement
 Used ChatGPT tp troubleshoot whenever I got stuck on a problem, or could not find the error.
